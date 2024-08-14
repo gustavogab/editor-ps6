@@ -1,0 +1,1 @@
+# editor-ps6
